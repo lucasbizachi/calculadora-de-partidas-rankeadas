@@ -1,4 +1,4 @@
-let vitorias = 82
+let vitorias = 91
 let derrotas = 10
 
 function calcularNivelRankeadas(vitorias, derrotas) {
