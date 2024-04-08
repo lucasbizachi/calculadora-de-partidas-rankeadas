@@ -24,3 +24,5 @@ Ao final deve se exibir uma mensagem:
 ## Solução:
 ![solucao01](https://github.com/lucasbizachi/calculadora-de-partidas-rankeadas/assets/101759223/ed709d0b-8e19-4a83-88b5-edc76c784d41)
 ![solucao02](https://github.com/lucasbizachi/calculadora-de-partidas-rankeadas/assets/101759223/20292716-a74e-4cd2-8a14-8a319694bc42)
+
+
